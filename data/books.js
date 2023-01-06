@@ -20,13 +20,48 @@ export const booksData = [
         isSkillBook: true
     },
     {
-        title: "2920, Sun's Dawn, v1",
+        title: "2920, Sun's Dawn, v2",
         author: "Carlovac Townway",
         isSkillBook: true
     },
     {
-        title: "An Accounting of the Scrolls",
-        author: "Quintus Nerevelus",
+        title: "2920, First Seed, v3",
+        author: "Carlovac Townway",
         isSkillBook: false
+    },
+    {
+        title: "2920, Rain's Hand, v4",
+        author: "Carlovac Townway",
+        isSkillBook: true
+    },
+    {
+        title: "2920, Second Seed, v5",
+        author: "Carlovac Townway",
+        isSkillBook: true
+    },
+    {
+        title: "2920, MidYear, v6",
+        author: "Carlovac Townway",
+        isSkillBook: true
+    },
+    {
+        title: "2920, Sun's Height, v7",
+        author: "Carlovac Townway",
+        isSkillBook: false
+    },
+    {
+        title: "2920, Last Seed, v8",
+        author: "Carlovac Townway",
+        isSkillBook: true
+    },
+    {
+        title: "2920, Hearth Fire, v9",
+        author: "Carlovac Townway",
+        isSkillBook: true
+    },
+    {
+        title: "2920, Frostfall, v10",
+        author: "Carlovac Townway",
+        isSkillBook: true
     },
 ]
