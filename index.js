@@ -1,4 +1,4 @@
-import { booksData } from '/data/books.js'
+import { booksData } from '/data/booksData.js'
 
 const bookContainer = document.getElementById('book-container')
 
