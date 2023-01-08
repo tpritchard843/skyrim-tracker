@@ -1,0 +1,2206 @@
+[
+    {
+        "Title (ID)": "16 Accords of Madness, v. VI\n        0001AFB2",
+        "Author": "Hircine's Tale"
+    },
+    {
+        "Title (ID)": "16 Accords of Madness, v. IX\n        0001AFB3",
+        "Author": "Vaermina's Tale"
+    },
+    {
+        "Title (ID)": "16 Accords of Madness, v. XII\n        0001AFB1",
+        "Author": "Malacath's Tale"
+    },
+    {
+        "Title (ID)": "2920, Morning Star, v1\n        0001AFD9",
+        "Author": "Carlovac Townway",
+        "Type": "One-handed skill book"
+    },
+    {
+        "Title (ID)": "2920, Sun's Dawn, v2\n        0001B010",
+        "Author": "Carlovac Townway",
+        "Type": "Illusion skill book"
+    },
+    {
+        "Title (ID)": "2920, First Seed, v3\n        0001ACE5",
+        "Author": "Carlovac Townway"
+    },
+    {
+        "Title (ID)": "2920, Rain's Hand, v4\n        0001B017",
+        "Author": "Carlovac Townway",
+        "Type": "Restoration skill book"
+    },
+    {
+        "Title (ID)": "2920, Second Seed, v5\n        0001B025",
+        "Author": "Carlovac Townway",
+        "Type": "Speech skill book"
+    },
+    {
+        "Title (ID)": "2920, MidYear, v6\n        0001AFF7",
+        "Author": "Carlovac Townway",
+        "Type": "Heavy Armor skill book"
+    },
+    {
+        "Title (ID)": "2920, Sun's Height, v7\n        0001B00C",
+        "Author": "Carlovac Townway"
+    },
+    {
+        "Title (ID)": "2920, Last Seed, v8\n        0001B01F",
+        "Author": "Carlovac Townway",
+        "Type": "Sneak skill book"
+    },
+    {
+        "Title (ID)": "2920, Hearth Fire, v9\n        0001AFE9",
+        "Author": "Carlovac Townway",
+        "Type": "Conjuration skill book"
+    },
+    {
+        "Title (ID)": "2920, Frostfall, v10\n        0001AFEA",
+        "Author": "Carlovac Townway",
+        "Type": "Conjuration skill book"
+    },
+    {
+        "Title (ID)": "2920, Sun's Dusk, v11\n        0001ACE3",
+        "Author": "Carlovac Townway"
+    },
+    {
+        "Title (ID)": "2920, Evening Star, v12\n        0001ACE4",
+        "Author": "Carlovac Townway"
+    },
+    {
+        "Title (ID)": "An Accounting of the Scrolls\n        000ED03A",
+        "Author": "Quintus Nerevelus, Former Imperial Librarian"
+    },
+    {
+        "Title (ID)": "The Adabal-a\n        0001AF94",
+        "Author": "Morihaus"
+    },
+    {
+        "Title (ID)": "Admonition Against Ebony\n        000F6843",
+        "Author": "A warning to any who might claim the Ebony Blade"
+    },
+    {
+        "Title (ID)": "Adonato's Book\n        000403AF",
+        "Author": "Adonato Leonetti"
+    },
+    {
+        "Title (ID)": "Advances in Lockpicking\n        0001B01C",
+        "Author": "An experienced thief summarizes the intricacies of lockpicking"
+    },
+    {
+        "Title (ID)": "Adventurer's Journal\n        000D95E3",
+        "Author": "About investigating attacks on caravans by the Falmer"
+    },
+    {
+        "Title (ID)": "Aedra and Daedra\n        0001B22C",
+        "Author": "Overview of the basic differences between Gods, Demons, Aedra, and Daedra"
+    },
+    {
+        "Title (ID)": "The Aetherium WarsDG\n        xx004D5B",
+        "Author": "Taron Dreth"
+    },
+    {
+        "Title (ID)": "Aevar Stone-Singer\n        0001ACE6",
+        "Author": "Traditional Skaal myth about a young Skaal's journey to recover the Gifts of the All-Maker"
+    },
+    {
+        "Title (ID)": "Agrius's Journal\n        00083AE8",
+        "Author": "Agrius"
+    },
+    {
+        "Title (ID)": "Ahzidal's DescentDB\n        xx033BD8",
+        "Author": "Halund Greycloak"
+    },
+    {
+        "Title (ID)": "Ahzirr Traajijazeri\n        0001AFF3",
+        "Author": "Anonymous"
+    },
+    {
+        "Title (ID)": "Aicantar's Lab Journal\n        00065C35",
+        "Author": "Aicantar"
+    },
+    {
+        "Title (ID)": "Alchemist's Journal\n        0003A523",
+        "Author": "The journal of an alchemist interested in plant growth and ecology"
+    },
+    {
+        "Title (ID)": "Alchemist's Journal\n        000CE5BD",
+        "Author": "The idyllic journal of an alchemist"
+    },
+    {
+        "Title (ID)": "Alduin is Real\n        000EA5B0",
+        "Author": "Thromgar Iron-Head"
+    },
+    {
+        "Title (ID)": "The Alduin/Akatosh Dichotomy\n        000ED04B",
+        "Author": "Alexandre Simon, High Priest of the Akatosh Chantry, Wayrest"
+    },
+    {
+        "Title (ID)": "The AnticipationsDB\n        xx02826c",
+        "Author": "Anonymous"
+    },
+    {
+        "Title (ID)": "Alva's Journal\n        0002A96D",
+        "Author": "Alva"
+    },
+    {
+        "Title (ID)": "Amongst the Draugr\n        000ED03F",
+        "Author": "Bernadette Bantien, College of Winterhold"
+    },
+    {
+        "Title (ID)": "The Amulet of Kings\n        0001ACE1",
+        "Author": "Wenengrus Monhona"
+    },
+    {
+        "Title (ID)": "Ancestors and the Dunmer\n        0001B22D",
+        "Author": "An outdated guide for foreign visitors to Morrowind"
+    },
+    {
+        "Title (ID)": "Annals of the Dragonguard\n        0003636A",
+        "Author": "Brother Annulus"
+    },
+    {
+        "Title (ID)": "Antecedants of Dwemer Law\n        0001B22F",
+        "Author": "A historical account of the development of Dwemer law and custom from its roots in High Elven culture"
+    },
+    {
+        "Title (ID)": "The Apprentice's Assistant\n        000EDA8F",
+        "Author": "Aramril"
+    },
+    {
+        "Title (ID)": "Arcana Restored\n        0001ACFE",
+        "Author": "Wapna Neustra\n        Praceptor&nbsp;[sic] Emeritus"
+    },
+    {
+        "Title (ID)": "The Arcturian Heresy\n        0001B25E",
+        "Author": "The Underking, Ysmir Kingmaker"
+    },
+    {
+        "Title (ID)": "Argonian Account, Book 1\n        0001AFD7",
+        "Author": "Waughin Jarth"
+    },
+    {
+        "Title (ID)": "Argonian Account, Book 2\n        0001ACE7",
+        "Author": "Waughin Jarth"
+    },
+    {
+        "Title (ID)": "Argonian Account, Book 3\n        0001AFFC",
+        "Author": "Waughin Jarth"
+    },
+    {
+        "Title (ID)": "Argonian Account, Book 4\n        0001ACE8",
+        "Author": "Waughin Jarth"
+    },
+    {
+        "Title (ID)": "The Armorer's Challenge\n        0001AFCE",
+        "Author": "Mymophonus",
+        "Type": "Smithing skill book"
+    },
+    {
+        "Title (ID)": "Arondil's Journal, Part 1\n        00080D63",
+        "Author": "Arondil"
+    },
+    {
+        "Title (ID)": "Arondil's Journal, Part 2\n        00080D64",
+        "Author": "Arondil"
+    },
+    {
+        "Title (ID)": "Arondil's Journal, Part 3\n        00080D65",
+        "Author": "Arondil"
+    },
+    {
+        "Title (ID)": "Arondil's Journal, Part 4\n        00080D66",
+        "Author": "Arondil"
+    },
+    {
+        "Title (ID)": "The Art of War Magic\n        0001AFEF",
+        "Author": "Zurin Arctus, with Commentary By Other Learned Masters",
+        "Type": "Destruction skill book"
+    },
+    {
+        "Title (ID)": "Arvel's Journal\n        00039654",
+        "Author": "Arvel the Swift"
+    },
+    {
+        "Title (ID)": "Atlas of Dragons\n        000FF227",
+        "Author": "Brother Mathnan"
+    },
+    {
+        "Title (ID)": "Atronach Forge Manual\n        0006CE1C",
+        "Author": "A guide on how to use the Atronach Forge"
+    },
+    {
+        "Title (ID)": "The Axe ManDB\n        xx02826d",
+        "Author": "A surprising way to become proficient with an axe"
+    },
+    {
+        "Title (ID)": "Azura and the Box\n        0001ACE9",
+        "Author": "Marobar Sul"
+    },
+    {
+        "Title (ID)": "Bandit Leader's Journal\n        00078DD2",
+        "Author": "Journal entries indicating the location of a hidden stash"
+    },
+    {
+        "Title (ID)": "Bandit's Journal\n        00083B01",
+        "Author": "A Bandit's account of taking over Fort Neugrad"
+    },
+    {
+        "Title (ID)": "Bandit's Journal\n        00083AFB",
+        "Author": "A bandit's complaints about their inability to kill a mammoth"
+    },
+    {
+        "Title (ID)": "Battle of Red Mountain\n        0002F83C",
+        "Author": "Vivec",
+        "Type": "Block skill book"
+    },
+    {
+        "Title (ID)": "Battle of Sancre Tor\n        0001AFDC",
+        "Author": "The story of how General Talos defeated the stronghold of Sancre Tor"
+    },
+    {
+        "Title (ID)": "The Bear of Markarth\n        0007EB9E",
+        "Author": "Arrianus Arius, Imperial Scholar"
+    },
+    {
+        "Title (ID)": "Before the Ages of Man\n        0001B012",
+        "Author": "Aicantar of Shimerene",
+        "Type": "Illusion skill book"
+    },
+    {
+        "Title (ID)": "Beggar\n        0001AFD6",
+        "Author": "Reven",
+        "Type": "Pickpocket skill book"
+    },
+    {
+        "Title (ID)": "Beggar Prince\n        0001ACC7",
+        "Author": "The story of Wheedle and their gifts from the Daedric Lord Namira"
+    },
+    {
+        "Title (ID)": "The Beginner's Guide to HomesteadingHF\n        xx015d59",
+        "Author": "A guide to building and furnishing a house on your purchased plot of land"
+    },
+    {
+        "Title (ID)": "The BetrayedDG\n        xx01A3E5",
+        "Author": "Engwe Emeloth"
+    },
+    {
+        "Title (ID)": "Biography of Barenziah, v1\n        0001ACB5",
+        "Author": "Stern Gamboge, Imperial Scribe"
+    },
+    {
+        "Title (ID)": "Biography of Barenziah, v2\n        0001ACB6",
+        "Author": "Stern Gamboge, Imperial Scribe"
+    },
+    {
+        "Title (ID)": "Biography of Barenziah, v3\n        0001ACB7",
+        "Author": "Stern Gamboge, Imperial Scribe"
+    },
+    {
+        "Title (ID)": "Biography of the Wolf Queen\n        0001B023",
+        "Author": "Katar Eriphanes",
+        "Type": "Speech skill book"
+    },
+    {
+        "Title (ID)": "The Black Arrow, v1\n        0001AFC2",
+        "Author": "Gorgic Guine"
+    },
+    {
+        "Title (ID)": "The Black Arrow, v2\n        0001B009",
+        "Author": "Gorgic Guine",
+        "Type": "Archery skill book"
+    },
+    {
+        "Title (ID)": "The Black Arts On Trial\n        0001B011",
+        "Author": "Hannibal Traven, Archmagister of the Mages Guild",
+        "Type": "Illusion skill book"
+    },
+    {
+        "Title (ID)": "Black Book: Epistolary AcumenDB\n        xx016e2c",
+        "Author": "The Transparent One"
+    },
+    {
+        "Title (ID)": "Black Book: Filament and FiligreeDB\n        xx01e99e",
+        "Author": "Jelketheris"
+    },
+    {
+        "Title (ID)": "Black Book: The Hidden TwilightDB\n        xx01e99f",
+        "Author": "Carillius Melfus"
+    },
+    {
+        "Title (ID)": "Black Book: The Sallow RegentDB\n        xx01e99d",
+        "Author": "Hawfip the Crafter"
+    },
+    {
+        "Title (ID)": "Black Book: Untold LegendsDB\n        xx016e2d",
+        "Author": "A part of a series of Black Books"
+    },
+    {
+        "Title (ID)": "Black Book: Waking DreamsDB\n        xx016e22",
+        "Author": "Bilius Felcrex"
+    },
+    {
+        "Title (ID)": "Black Book: The Winds of ChangeDB\n        xx01e99c",
+        "Author": "Liesl Grey-Heart"
+    },
+    {
+        "Title (ID)": "Boethiah's Glory\n        0001B233",
+        "Author": "Worship book for Boethiah"
+    },
+    {
+        "Title (ID)": "Boethiah's Proving\n        00032E72",
+        "Author": "Anonymous"
+    },
+    {
+        "Title (ID)": "Bone, Part IDB\n        xx028261",
+        "Author": "Tavi Dromio"
+    },
+    {
+        "Title (ID)": "Bone, Part IIDB\n        xx028262",
+        "Author": "Tavi Dromio"
+    },
+    {
+        "Title (ID)": "The Book of Daedra\n        0001ACC8",
+        "Author": "Excerpts from a lengthy tome describing the nature of each of the Daedra"
+    },
+    {
+        "Title (ID)": "The Book of Fate\n        00105A52",
+        "Author": "A blank book said to contain the reader's fate"
+    },
+    {
+        "Title (ID)": "The Book of the Dragonborn\n        000F86FE",
+        "Author": "Prior Emelene Madrine"
+    },
+    {
+        "Title (ID)": "The Book of Life and ServiceDG\n        xx00FAC2",
+        "Author": "Book relating to the undead of the Soul Cairn"
+    },
+    {
+        "Title (ID)": "Breathing Water\n        0001B236",
+        "Author": "Haliel Myrm",
+        "Type": "Alteration skill book"
+    },
+    {
+        "Title (ID)": "Brief History of the Empire, v1\n        0001ACB9",
+        "Author": "Stronach k'Thojj III"
+    },
+    {
+        "Title (ID)": "Brief History of the Empire, v2\n        0001ACBA",
+        "Author": "Stronach k'Thojj III"
+    },
+    {
+        "Title (ID)": "Brief History of the Empire, v3\n        0001ACBB",
+        "Author": "Stronach k'Thojj III"
+    },
+    {
+        "Title (ID)": "Brief History of the Empire, v4\n        0001ACBC",
+        "Author": "Stronach k'Thojj III"
+    },
+    {
+        "Title (ID)": "Brothers of Darkness\n        0001ACFF",
+        "Author": "Pellarne Assi"
+    },
+    {
+        "Title (ID)": "Butcher Journal #1\n        00024737",
+        "Author": "The Butcher"
+    },
+    {
+        "Title (ID)": "Butcher Journal #2\n        00066182",
+        "Author": "The Butcher"
+    },
+    {
+        "Title (ID)": "Butcher Journal\n        00024763",
+        "Author": "Calixto Corrium"
+    },
+    {
+        "Title (ID)": "The Buying Game\n        0001B00A",
+        "Author": "Adabael Timsar-Dadisun",
+        "Type": "Speech skill book"
+    },
+    {
+        "Title (ID)": "The Cabin in the Woods\n        000EF638",
+        "Author": "Mogen Son of Molag"
+    },
+    {
+        "Title (ID)": "The Cake and The Diamond\n        0001B262",
+        "Author": "Athyn Muendil"
+    },
+    {
+        "Title (ID)": "Catalogue of Armor Enchantments\n        0002F83B",
+        "Author": "Yvonne Bienne, Synod researcher",
+        "Type": "Enchanting skill book"
+    },
+    {
+        "Title (ID)": "Catalogue of Weapon Enchantments\n        0002F83A",
+        "Author": "Yvonne Bienne, Synod researcher",
+        "Type": "Enchanting skill book"
+    },
+    {
+        "Title (ID)": "Cats of Skyrim\n        000ED605",
+        "Author": "Aldetuile"
+    },
+    {
+        "Title (ID)": "Chance's Folly\n        0001B237",
+        "Author": "Zylmoc Golge"
+    },
+    {
+        "Title (ID)": "Changed OnesDB\n        xx028263",
+        "Author": "Story of how Boethiah refuted Trinimac"
+    },
+    {
+        "Title (ID)": "Charwich-Koniinge Letters, v1\n        0001B238",
+        "Author": "Charwich"
+    },
+    {
+        "Title (ID)": "Charwich-Koniinge Letters, v3\n        0001B23A",
+        "Author": "Charwich"
+    },
+    {
+        "Title (ID)": "Charwich-Koniinge Letters, v4\n        0001B23B",
+        "Author": "Syrix Goinithi"
+    },
+    {
+        "Title (ID)": "Charwich-Koniinge, v2\n        0001B239",
+        "Author": "Koniinge"
+    },
+    {
+        "Title (ID)": "Chaurus Pie: A Recipe\n        000ED032",
+        "Author": "Nils"
+    },
+    {
+        "Title (ID)": "Cherim's Heart\n        0001AFD1",
+        "Author": "Livillus Perus, Professor at the Imperial University",
+        "Type": "Smithing skill book"
+    },
+    {
+        "Title (ID)": "Children of the Sky\n        0001AD03",
+        "Author": "A description of the Nords and the Thu'um"
+    },
+    {
+        "Title (ID)": "A Children's Anuad\n        0001ACDF",
+        "Author": "Early religious book providing a simplified version of The Anuad creation myth from the Mythic Era"
+    },
+    {
+        "Title (ID)": "Children of the All-MakerDB\n        xx03ABCC",
+        "Author": "Tharstan of Solitude"
+    },
+    {
+        "Title (ID)": "Chimarvamidium\n        0001AFF8\n        0001B22E",
+        "Author": "Marobar Sul",
+        "Type": "Heavy Armor skill book"
+    },
+    {
+        "Title (ID)": "Chronicles of Nchuleft\n        0001B23C",
+        "Author": "An Anonymous Altmer"
+    },
+    {
+        "Title (ID)": "Cicero's Journal - Final Volume\n        00019514",
+        "Author": "Cicero"
+    },
+    {
+        "Title (ID)": "Cicero's Journal - Volume 1\n        0009DABE",
+        "Author": "Cicero"
+    },
+    {
+        "Title (ID)": "Cicero's Journal - Volume 2\n        0009DAC1",
+        "Author": "Cicero"
+    },
+    {
+        "Title (ID)": "Cicero's Journal - Volume 3\n        0009DAC4",
+        "Author": "Cicero"
+    },
+    {
+        "Title (ID)": "Cicero's Journal - Volume 4\n        0009DAC5",
+        "Author": "Cicero"
+    },
+    {
+        "Title (ID)": "The City of Stone\n        0007EBC2",
+        "Author": "Amanda Alleia"
+    },
+    {
+        "Title (ID)": "Cleansing of the Fane\n        0001AD04",
+        "Author": "Fragmented script from a member of the Alessian Order"
+    },
+    {
+        "Title (ID)": "The Code of Malacath\n        0007EBC9",
+        "Author": "Amanda Alleia, Mercenary"
+    },
+    {
+        "Title (ID)": "Confessions of a Dunmer Skooma EaterDB\n        xx028264",
+        "Author": "Tilse Sendas"
+    },
+    {
+        "Title (ID)": "Confessions Of A Khajiit Fur TraderDG\n        xx016692",
+        "Author": "The Fur Trader"
+    },
+    {
+        "Title (ID)": "Cook's Journal\n        000951AE",
+        "Author": "an Unknown Bandit Cook"
+    },
+    {
+        "Title (ID)": "A Dance in Fire, v1\n        0001AFC0",
+        "Author": "Waughin Jarth"
+    },
+    {
+        "Title (ID)": "A Dance in Fire, v2\n        0001AFDF",
+        "Author": "Waughin Jarth",
+        "Type": "Block skill book"
+    },
+    {
+        "Title (ID)": "A Dance in Fire, v3\n        0001AFD4",
+        "Author": "Waughin Jarth"
+    },
+    {
+        "Title (ID)": "A Dance in Fire, v4\n        0001AFC1",
+        "Author": "Waughin Jarth"
+    },
+    {
+        "Title (ID)": "A Dance in Fire, v5\n        0001B006",
+        "Author": "Waughin Jarth"
+    },
+    {
+        "Title (ID)": "A Dance in Fire, v6\n        0001B00D",
+        "Author": "Waughin Jarth",
+        "Type": "Speech skill book"
+    },
+    {
+        "Title (ID)": "A Dance in Fire, v7\n        0001B00E",
+        "Author": "Waughin Jarth",
+        "Type": "Speech skill book"
+    },
+    {
+        "Title (ID)": "Darkest Darkness\n        0001ACC9",
+        "Author": "A description of various Daedra"
+    },
+    {
+        "Title (ID)": "Daughter of the Niben\n        0001AFC9",
+        "Author": "Sathyr Longleat",
+        "Type": "Alteration skill book"
+    },
+    {
+        "Title (ID)": "Daynas Valen's Journal\n        00085FE2",
+        "Author": "Daynas Valen"
+    },
+    {
+        "Title (ID)": "Daynas Valen's Notes\n        00085FE3",
+        "Author": "Daynas Valen"
+    },
+    {
+        "Title (ID)": "De Rerum Dirennis\n        0001AFC7",
+        "Author": "Vorian Direnni",
+        "Type": "Alchemy skill book"
+    },
+    {
+        "Title (ID)": "Death Blow of Abernanit\n        0001AFDD",
+        "Author": "Anonymous (with notes by Geocrates Varnus)",
+        "Type": "Block skill book"
+    },
+    {
+        "Title (ID)": "Death of a Wanderer\n        000ED040",
+        "Author": "Anonymous"
+    },
+    {
+        "Title (ID)": "DeathbrandDB\n        xx03661a",
+        "Author": "A Pirate's Tale"
+    },
+    {
+        "Title (ID)": "Decree of Monument\n        000D55D9",
+        "Author": "About recognizing a place of historic value"
+    },
+    {
+        "Title (ID)": "Diary of Faire AgarwenDG\n        xx01A3E7",
+        "Author": "Faire Agarwen"
+    },
+    {
+        "Title (ID)": "Discovering Ruunvald, Vol. IDG\n        xx0192F0",
+        "Author": "Moric Sidrey"
+    },
+    {
+        "Title (ID)": "Discovering Ruunvald, Vol. IIDG\n        xx019578",
+        "Author": "Moric Sidrey"
+    },
+    {
+        "Title (ID)": "Discovering Ruunvald, Vol. IIIDG\n        xx01957A",
+        "Author": "Moric Sidrey"
+    },
+    {
+        "Title (ID)": "Discovering Ruunvald, Vol. IVDG\n        xx01957C",
+        "Author": "Moric Sidrey"
+    },
+    {
+        "Title (ID)": "The Doors of the SpiritDB\n        xx028265",
+        "Author": "Mantra of the Dunmer spirits"
+    },
+    {
+        "Title (ID)": "The Doors of Oblivion\n        0001AFE7",
+        "Author": "Seif-ij Hidja",
+        "Type": "Conjuration skill book"
+    },
+    {
+        "Title (ID)": "The Dowry\n        0001ACF2",
+        "Author": "Marobar Sul"
+    },
+    {
+        "Title (ID)": "The Dragon Break\n        0001AFCA",
+        "Author": "Fal Droon"
+    },
+    {
+        "Title (ID)": "Dragon Language: Myth no More\n        000EF2C0",
+        "Author": "Hela Thrice-Versed"
+    },
+    {
+        "Title (ID)": "The Dragon War\n        000EDDD5",
+        "Author": "Torhal Bjorik"
+    },
+    {
+        "Title (ID)": "A Dream of Sovngarde\n        000ED02F",
+        "Author": "Skardan Free-Winter"
+    },
+    {
+        "Title (ID)": "The Dreamstride\n        0009DE3D",
+        "Author": "The Mysterious Alchemists of Vaermina"
+    },
+    {
+        "Title (ID)": "Dunmer of Skyrim\n        000E2FC5",
+        "Author": "Athal Sarys"
+    },
+    {
+        "Title (ID)": "Dwarves, v1\n        00083168",
+        "Author": "Calcelmo, Scholar of Markarth"
+    },
+    {
+        "Title (ID)": "Dwarves, v2\n        00083169",
+        "Author": "Calcelmo, Scholar of Markarth"
+    },
+    {
+        "Title (ID)": "Dwarves, v3\n        0008316A",
+        "Author": "Calcelmo, Scholar of Markarth"
+    },
+    {
+        "Title (ID)": "Dwemer History and Culture\n        0001ACEA",
+        "Author": "Hasphat Antabolis"
+    },
+    {
+        "Title (ID)": "Dwemer Inquiries Vol I\n        000E7F31",
+        "Author": "Thelwe Ghelein, Scholar"
+    },
+    {
+        "Title (ID)": "Dwemer Inquiries Vol II\n        000E7F33",
+        "Author": "Thelwe Ghelein, Scholar"
+    },
+    {
+        "Title (ID)": "Dwemer Inquiries Vol III\n        000E7F34",
+        "Author": "Thelwe Ghelein, Scholar"
+    },
+    {
+        "Title (ID)": "Effects of the Elder Scrolls\n        0003010B",
+        "Author": "Justinius Poluhnius"
+    },
+    {
+        "Title (ID)": "Eisa's Journal\n        000D0BF6",
+        "Author": "Eisa Blackthorn"
+    },
+    {
+        "Title (ID)": "Enchanter's Primer\n        0002F837",
+        "Author": "Sergius Turrianus",
+        "Type": "Enchanting skill book"
+    },
+    {
+        "Title (ID)": "Endrast's Journal\n        0008ACD0",
+        "Author": "Endrast"
+    },
+    {
+        "Title (ID)": "Erj's Notes\n        000C084B",
+        "Author": "Erj"
+    },
+    {
+        "Title (ID)": "The Exodus\n        0001B016",
+        "Author": "Waughin Jarth",
+        "Type": "Restoration skill book"
+    },
+    {
+        "Title (ID)": "Expedition Manifest\n        0008ACD1",
+        "Author": "Sulla Trebatius"
+    },
+    {
+        "Title (ID)": "An Explorer's Guide to Skyrim\n        00083B38",
+        "Author": "Marcius Carvain, Viscount Bruma"
+    },
+    {
+        "Title (ID)": "Eydis's JournalDB\n        xx03B53E",
+        "Author": "Eydis"
+    },
+    {
+        "Title (ID)": "Faded Diary\n        000F0422",
+        "Author": "The diary of a refugee from Morrowind who never found safety"
+    },
+    {
+        "Title (ID)": "Fall from Glory\n        000ED033",
+        "Author": "Nithilis Lidari"
+    },
+    {
+        "Title (ID)": "Fall of the Snow Prince\n        0001ACF7",
+        "Author": "Lokheim"
+    },
+    {
+        "Title (ID)": "The Falmer: A Study\n        000E0D68",
+        "Author": "Ursa Uthrax"
+    },
+    {
+        "Title (ID)": "Father Of The Niben\n        0001B008",
+        "Author": "Florin Jaliil",
+        "Type": "Archery skill book"
+    },
+    {
+        "Title (ID)": "Feyfolken I\n        0001ACEB",
+        "Author": "Waughin Jarth"
+    },
+    {
+        "Title (ID)": "Feyfolken II\n        0001ACEC",
+        "Author": "Waughin Jarth"
+    },
+    {
+        "Title (ID)": "Feyfolken III\n        0001ACED",
+        "Author": "Waughin Jarth"
+    },
+    {
+        "Title (ID)": "Final Lesson\n        0001B267",
+        "Author": "Aegrothius Goth"
+    },
+    {
+        "Title (ID)": "Fire and Darkness\n        0001AFDA",
+        "Author": "Ynir Gorming",
+        "Type": "One-handed skill book"
+    },
+    {
+        "Title (ID)": "The Firmament\n        0001ACD2",
+        "Author": "Ffoulke"
+    },
+    {
+        "Title (ID)": "The Firsthold Revolt\n        0001ACD3",
+        "Author": "Maveus Cie"
+    },
+    {
+        "Title (ID)": "Fisherman's Journal\n        0007F667",
+        "Author": "Advard"
+    },
+    {
+        "Title (ID)": "Fisherman's Journal\n        00088FE2",
+        "Author": "A fisherman writes about superstitions surrounding Lake Ilinalta"
+    },
+    {
+        "Title (ID)": "Five Songs of King Wulfharth\n        0001AD05",
+        "Author": "A summary of five epic songs of King Wulfharth, plus an apocryphal song of the Tribunal, Dagoth-Ur, and Indoril Nerevar"
+    },
+    {
+        "Title (ID)": "The Five Far StarsDB\n        xx028267",
+        "Author": "Zershishi Mus-Manul"
+    },
+    {
+        "Title (ID)": "Flight from the Thalmor\n        000ED04E",
+        "Author": "Hadrik Oaken-Heart"
+    },
+    {
+        "Title (ID)": "Forge, Hammer and Anvil\n        000E3E69",
+        "Author": "Adolphus Eritius"
+    },
+    {
+        "Title (ID)": "The Four Totems of Volskygge\n        00068B5A",
+        "Author": "A logic puzzle holding the secret to opening a barred gate"
+    },
+    {
+        "Title (ID)": "Fragment: On Artaeum\n        0001AD06\n        00072841",
+        "Author": "Taurce il-Anselma"
+    },
+    {
+        "Title (ID)": "Frontier, Conquest\n        0001ACCB",
+        "Author": "University of Gwylim Press, 3E 344"
+    },
+    {
+        "Title (ID)": "Galerion The Mystic\n        0001ACCD",
+        "Author": "Asgrim Kolsgreg"
+    },
+    {
+        "Title (ID)": "Gallus's Encoded Journal\n        000CEDA6",
+        "Author": "Gallus Desidenius"
+    },
+    {
+        "Title (ID)": "Gallus's Journal\n        0001BB6D",
+        "Author": "Gallus Desidenius"
+    },
+    {
+        "Title (ID)": "A Game at Dinner\n        0001AFC4",
+        "Author": "An Anonymous Spy",
+        "Type": "Alchemy skill book"
+    },
+    {
+        "Title (ID)": "A Gentleman's Guide to Whiterun\n        000ED02E",
+        "Author": "Mikael the Bard"
+    },
+    {
+        "Title (ID)": "Ghosts in the Storm\n        000ED031",
+        "Author": "Adonato Leotelli"
+    },
+    {
+        "Title (ID)": "Glories and Laments\n        0001AD07",
+        "Author": "Alexandre Hetrard"
+    },
+    {
+        "Title (ID)": "Gods and Worship\n        0001ACD5",
+        "Author": "Brother Hetchfield"
+    },
+    {
+        "Title (ID)": "The Gold Ribbon of Merit\n        0001B005",
+        "Author": "Ampyrian Brum",
+        "Type": "Archery skill book"
+    },
+    {
+        "Title (ID)": "Gratian's JournalDB\n        xx020A2F",
+        "Author": "Gratian Caerellius"
+    },
+    {
+        "Title (ID)": "Great Harbingers\n        000ED047",
+        "Author": "Swyk the Long-Sighted"
+    },
+    {
+        "Title (ID)": "The Great War\n        000F456D",
+        "Author": "Legate Justianus Quintius"
+    },
+    {
+        "Title (ID)": "The Guardian and the TraitorDB\n        xx03abcd",
+        "Author": "Lucius Gallus"
+    },
+    {
+        "Title (ID)": "Guide to Better Thieving\n        0002F836",
+        "Author": "Wulfmare Shadow-Cloak",
+        "Type": "Pickpocket skill book"
+    },
+    {
+        "Title (ID)": "Habd's Journal\n        00048160",
+        "Author": "Habd"
+    },
+    {
+        "Title (ID)": "Hajvarr's Journal\n        000E1647",
+        "Author": "Hajvarr Iron-Hand"
+    },
+    {
+        "Title (ID)": "Hallgerd's Tale\n        0001AFF6",
+        "Author": "Tavi Dromio",
+        "Type": "Heavy Armor skill book"
+    },
+    {
+        "Title (ID)": "Hamelyn's Journal\n        0010B2CD",
+        "Author": "Hamelyn"
+    },
+    {
+        "Title (ID)": "Hanging Gardens\n        0001AD08",
+        "Author": "A travel guide to the Hanging Gardens of Wasten Coridale, written in both Dwemeris and Aldmeris"
+    },
+    {
+        "Title (ID)": "Hargar's Journal\n        000BABB4",
+        "Author": "Captain Hargar"
+    },
+    {
+        "Title (ID)": "Harvesting Frostbite Spider Venom\n        000ED603",
+        "Author": "A brief guide to harvesting frostbite spider venom"
+    },
+    {
+        "Title (ID)": "Heavy Armor Forging\n        0001AFD2",
+        "Author": "Sven Two-Hammers",
+        "Type": "Smithing skill book"
+    },
+    {
+        "Title (ID)": "Heddic's Volunruud Notes\n        0008AD99",
+        "Author": "Heddic Volunnar"
+    },
+    {
+        "Title (ID)": "Herbalist's Guide to Skyrim\n        0001AFC8",
+        "Author": "Agneta Falia",
+        "Type": "Alchemy skill book"
+    },
+    {
+        "Title (ID)": "Herbane's Bestiary: Automatons\n        000ED60C",
+        "Author": "Herbane"
+    },
+    {
+        "Title (ID)": "Herbane's Bestiary: Hagravens\n        000ED60B",
+        "Author": "Herbane"
+    },
+    {
+        "Title (ID)": "Herbane's Bestiary: Ice Wraiths\n        000D6F0B",
+        "Author": "Herbane"
+    },
+    {
+        "Title (ID)": "History of Raven Rock, Vol. IDB\n        xx03af1b",
+        "Author": "Lyrin Telleno"
+    },
+    {
+        "Title (ID)": "History of Raven Rock, Vol. IIDB\n        xx03af1c",
+        "Author": "Lyrin Telleno"
+    },
+    {
+        "Title (ID)": "History of Raven Rock, Vol. IIIDB\n        xx03AF1D",
+        "Author": "Lyrin Telleno"
+    },
+    {
+        "Title (ID)": "Holdings of Jarl Gjalund\n        000FBA57",
+        "Author": "Slafknir the Scribe"
+    },
+    {
+        "Title (ID)": "The Holds of Skyrim\n        000ED030",
+        "Author": "The official guide of the Imperial Legion to Skyrim and its holds"
+    },
+    {
+        "Title (ID)": "The Hope of the Redoran\n        0001B26A",
+        "Author": "Turiul Nirith"
+    },
+    {
+        "Title (ID)": "Horker Attacks\n        000ED604",
+        "Author": "Heidmir Starkad"
+    },
+    {
+        "Title (ID)": "Horror of Castle Xyr\n        0001AFEC",
+        "Author": "Baloth-Kul",
+        "Type": "Destruction skill book"
+    },
+    {
+        "Title (ID)": "The House of TroublesDB\n        xx028268",
+        "Author": "Chronicle of the Daedra who decided not to submit to the Tribunal"
+    },
+    {
+        "Title (ID)": "Hrodulf's JournalDB\n        xx028FAF",
+        "Author": "Hrodulf"
+    },
+    {
+        "Title (ID)": "Hunter's Journal\n        000993FC"
+    },
+    {
+        "Title (ID)": "Hunter's Journal\n        000F54D4"
+    },
+    {
+        "Title (ID)": "A Hypothetical Treachery\n        0001AFEE",
+        "Author": "Anthil Morvir",
+        "Type": "Destruction skill book"
+    },
+    {
+        "Title (ID)": "Ice and Chitin\n        0001B001",
+        "Author": "Pletius Spatec",
+        "Type": "Light Armor skill book"
+    },
+    {
+        "Title (ID)": "Ildari's JournalDB\n        xx026AE7",
+        "Author": "Ildari Sarothril"
+    },
+    {
+        "Title (ID)": "Ildari's Journal, vol. IDB\n        xx027E4D",
+        "Author": "Ildari Sarothril"
+    },
+    {
+        "Title (ID)": "Ildari's Journal, vol. IIDB\n        xx027E4E",
+        "Author": "Ildari Sarothril"
+    },
+    {
+        "Title (ID)": "Ildari's Journal, vol. IIIDB\n        xx027E4F",
+        "Author": "Ildari Sarothril"
+    },
+    {
+        "Title (ID)": "Immortal Blood\n        0001AFF1",
+        "Author": "Anonymous"
+    },
+    {
+        "Title (ID)": "Imperial Missive\n        00039C8E",
+        "Author": "General Tullius"
+    },
+    {
+        "Title (ID)": "Imperial Report on Saarthal\n        000EDA90",
+        "Author": "Heseph Chirirnis"
+    },
+    {
+        "Title (ID)": "The Importance of Where\n        0001AFE3",
+        "Author": "Marobar Sul",
+        "Type": "One-handed skill book"
+    },
+    {
+        "Title (ID)": "Incident at Necrom\n        0001B00F",
+        "Author": "Jonquilla Bothe",
+        "Type": "Illusion skill book"
+    },
+    {
+        "Title (ID)": "Invocation of Azura\n        0001B245",
+        "Author": "Sigillah Parate"
+    },
+    {
+        "Title (ID)": "J'zhar's Journal\n        000F03E5",
+        "Author": "J'zhar"
+    },
+    {
+        "Title (ID)": "Japhet's Journal\n        000F6844",
+        "Author": "Japhet"
+    },
+    {
+        "Title (ID)": "Jornibret's Last Dance\n        0001B002",
+        "Author": "Song involving men and women's parts"
+    },
+    {
+        "Title (ID)": "Journal\n        0008E5DF",
+        "Author": "Kornalus"
+    },
+    {
+        "Title (ID)": "Journal\n        000DC198",
+        "Author": "A dying man's last thoughts"
+    },
+    {
+        "Title (ID)": "Journal\n        00077536",
+        "Author": "About a woman's fatal trip to her favorite swimming hole"
+    },
+    {
+        "Title (ID)": "Journal of Drokt\n        00026D85",
+        "Author": "Drokt"
+    },
+    {
+        "Title (ID)": "Journal of Mirtil AngothDG\n        xx01A3E6",
+        "Author": "Mirtil Angoth"
+    },
+    {
+        "Title (ID)": "The Journal of Ralis Sedarys - Volume 19DB\n        xx018108",
+        "Author": "Ralis Sedarys"
+    },
+    {
+        "Title (ID)": "The Journal of Ralis Sedarys - Volume 20DB\n        xx01810F",
+        "Author": "Ralis Sedarys"
+    },
+    {
+        "Title (ID)": "The Journal of Ralis Sedarys - Volume 21DB\n        xx018110",
+        "Author": "Ralis Sedarys"
+    },
+    {
+        "Title (ID)": "The Journal of Ralis Sedarys - Volume 22DB\n        xx018111",
+        "Author": "Ralis Sedarys"
+    },
+    {
+        "Title (ID)": "The Journal of Ralis Sedarys - Volume 23DB\n        xx0181CB",
+        "Author": "Ralis Sedarys"
+    },
+    {
+        "Title (ID)": "Karan's Journal\n        0003A06F",
+        "Author": "Karan"
+    },
+    {
+        "Title (ID)": "Katria's JournalDG\n        xx0146DB",
+        "Author": "Katria"
+    },
+    {
+        "Title (ID)": "The Keepers of the Razor\n        000973AC",
+        "Author": "Silus Vesuius"
+    },
+    {
+        "Title (ID)": "Killing - Before You're Killed\n        000EDD35",
+        "Author": "Eduardo Corvus"
+    },
+    {
+        "Title (ID)": "King\n        0001AFE5",
+        "Author": "Reven",
+        "Type": "Two-handed skill book"
+    },
+    {
+        "Title (ID)": "King Olaf's Verse\n        000AE324",
+        "Author": "A lost part of the , sung during the burning of Olaf's effigy in Solitude"
+    },
+    {
+        "Title (ID)": "A Kiss, Sweet Mother\n        000A0322",
+        "Author": "A description of the Black Sacrament in order to enlist the Dark Brotherhood"
+    },
+    {
+        "Title (ID)": "The Knights of the Nine\n        0001AFFA",
+        "Author": "Karoline of Solitude",
+        "Type": "Heavy Armor skill book"
+    },
+    {
+        "Title (ID)": "Kodlak's Journal\n        000F6841",
+        "Author": "Kodlak Whitemane"
+    },
+    {
+        "Title (ID)": "Kolb &amp; the Dragon\n        000EF53E",
+        "Author": "A story of a quest to slay a dragon where the reader makes the choices and decides the hero's fate"
+    },
+    {
+        "Title (ID)": "Krag's Journal\n        000C36EF",
+        "Author": "Krag"
+    },
+    {
+        "Title (ID)": "Kyr's Log\n        000D0E4E",
+        "Author": "Kyr"
+    },
+    {
+        "Title (ID)": "Last King of the Ayleids\n        0001AD09",
+        "Author": "Herminia Cinna"
+    },
+    {
+        "Title (ID)": "The Last King of the Ayleids\n        00072840",
+        "Author": "Herminia Cinna"
+    },
+    {
+        "Title (ID)": "Last Scabbard of Akrash\n        0001AFCF",
+        "Author": "Tabar Vunqidh",
+        "Type": "Smithing skill book"
+    },
+    {
+        "Title (ID)": "Legend of Krately House\n        0001B021",
+        "Author": "Baloth-Kul",
+        "Type": "Sneak skill book"
+    },
+    {
+        "Title (ID)": "The Legend of Red Eagle\n        000C1771",
+        "Author": "Tredayn Dren"
+    },
+    {
+        "Title (ID)": "The Legendary Sancre Tor\n        0001AFE2",
+        "Author": "Matera Chapel",
+        "Type": "Two-handed skill book"
+    },
+    {
+        "Title (ID)": "The Legendary Scourge\n        0001AD0A",
+        "Author": "A short story and poem about Scourge, the mace of Malacath"
+    },
+    {
+        "Title (ID)": "Life of Uriel Septim VII\n        0001ACDC",
+        "Author": "Rufus Hayn"
+    },
+    {
+        "Title (ID)": "Light Armor Forging\n        0001AFD0",
+        "Author": "Revus Sarvani",
+        "Type": "Smithing skill book"
+    },
+    {
+        "Title (ID)": "Liminal Bridges\n        0001AFE8",
+        "Author": "Camilonwe of Alinor",
+        "Type": "Conjuration skill book"
+    },
+    {
+        "Title (ID)": "Lives of the SaintsDB\n        xx028269",
+        "Author": "Tribunal Temple"
+    },
+    {
+        "Title (ID)": "The Locked Room\n        0001B019",
+        "Author": "Porbert Lyttumly",
+        "Type": "Lockpicking skill book"
+    },
+    {
+        "Title (ID)": "Lost Legends\n        000ED608",
+        "Author": "Talsgar the Elder, Archivist of Winterhold"
+    },
+    {
+        "Title (ID)": "Love Poem\n        000211D7",
+        "Author": "Yngvar the Singer"
+    },
+    {
+        "Title (ID)": "Lu-ah's Journal\n        00090213",
+        "Author": "Lu'ah Al-Skaven"
+    },
+    {
+        "Title (ID)": "The Lunar Lorkhan\n        0001AFCD",
+        "Author": "Fal Droon",
+        "Type": "Alteration skill book"
+    },
+    {
+        "Title (ID)": "The Lusty Argonian Maid, v1\n        0001ACEF",
+        "Author": "Crassius Curio"
+    },
+    {
+        "Title (ID)": "The Lusty Argonian Maid, v2\n        000F699D",
+        "Author": "Crassius Curio"
+    },
+    {
+        "Title (ID)": "Lusty Argonian Maid FolioDB\n        xx02BAC7",
+        "Author": "Crassius Curio"
+    },
+    {
+        "Title (ID)": "Lycanthropic Legends of Skyrim\n        000ED042",
+        "Author": "Lentulus Inventius, Order of the Horn"
+    },
+    {
+        "Title (ID)": "Lymdrenn Tenvanni's Journal\n        000E82BE",
+        "Author": "Lymdrenn Tenvanni"
+    },
+    {
+        "Title (ID)": "Mace Etiquette\n        0001AFE6",
+        "Author": "A warrior's instruction pamphlet on proper mace tactics"
+    },
+    {
+        "Title (ID)": "The \"Madmen\" of the Reach\n        0007EB03",
+        "Author": "Arrianus Arius, Imperial Scholar"
+    },
+    {
+        "Title (ID)": "The Madness of Pelagius\n        0001ACF0",
+        "Author": "Tsathenes"
+    },
+    {
+        "Title (ID)": "Magic from the Sky\n        0001ACF1",
+        "Author": "Irlav Jarol"
+    },
+    {
+        "Title (ID)": "Maluril's Journal\n        0006BE25",
+        "Author": "Maluril Ferano"
+    },
+    {
+        "Title (ID)": "Malyn Varen's Grimoire\n        00028ADC",
+        "Author": "Malyn Varen, Master Enchanter"
+    },
+    {
+        "Title (ID)": "Mannimarco, King of Worms\n        0001AFC5",
+        "Author": "Horicles",
+        "Type": "Alchemy skill book"
+    },
+    {
+        "Title (ID)": "Margret's Journal\n        000D3E6B",
+        "Author": "Margret"
+    },
+    {
+        "Title (ID)": "Markarth Home Decorating Guide\n        000F1445",
+        "Author": "Details on accessory packages available for a Markarth home"
+    },
+    {
+        "Title (ID)": "The Marksmanship Lesson\n        0001B26D",
+        "Author": "Alla Llaleth",
+        "Type": "Archery skill book"
+    },
+    {
+        "Title (ID)": "Master Illusion Text\n        000B3236"
+    },
+    {
+        "Title (ID)": "Master Illusion Text\n        000B3237"
+    },
+    {
+        "Title (ID)": "Master Illusion Text\n        000B3238"
+    },
+    {
+        "Title (ID)": "Master Illusion Text\n        000B3239"
+    },
+    {
+        "Title (ID)": "Medresi's Notes\n        000B716A",
+        "Author": "Medresi Dran"
+    },
+    {
+        "Title (ID)": "Merchant's Journal\n        000DD125"
+    },
+    {
+        "Title (ID)": "Merilar's JournalDB\n        xx0280C2",
+        "Author": "Merilar Rendas"
+    },
+    {
+        "Title (ID)": "Midden Incident Report\n        000D30C8"
+    },
+    {
+        "Title (ID)": "Miner's Journal\n        00055549",
+        "Author": "Hadrir"
+    },
+    {
+        "Title (ID)": "A Minor Maze\n        000F1AB3",
+        "Author": "A brief history of Labyrinthian"
+    },
+    {
+        "Title (ID)": "MinorneDG\n        xx01957E",
+        "Author": "Moric Sidrey"
+    },
+    {
+        "Title (ID)": "The Mirror\n        0001AFDE",
+        "Author": "Berdier Wreans",
+        "Type": "Block skill book"
+    },
+    {
+        "Title (ID)": "Mixed Unit Tactics\n        0001ACD1",
+        "Author": "Codus Callonus"
+    },
+    {
+        "Title (ID)": "The Monomyth\n        0001B26E",
+        "Author": "A theological book containing the common creation myths"
+    },
+    {
+        "Title (ID)": "Mysterious Akavir\n        0001ACD4",
+        "Author": "Information about the continent Akavir"
+    },
+    {
+        "Title (ID)": "Mystery of Talara, v 1\n        0001AFC3",
+        "Author": "Mera Llykith"
+    },
+    {
+        "Title (ID)": "Mystery of Talara, v 2\n        0001B018",
+        "Author": "Mera Llykith",
+        "Type": "Restoration skill book"
+    },
+    {
+        "Title (ID)": "Mystery of Talara, Part 4\n        0001B013",
+        "Author": "Mera Llykith",
+        "Type": "Illusion skill book"
+    },
+    {
+        "Title (ID)": "Mystery of Talara, v3\n        0001AFF0",
+        "Author": "Mera Llykith",
+        "Type": "Destruction skill book"
+    },
+    {
+        "Title (ID)": "Mystery of Talara, v5\n        0001ACF5",
+        "Author": "Mera Llykith"
+    },
+    {
+        "Title (ID)": "Mythic Dawn Commentaries 1\n        00086EF8",
+        "Author": "Mankar Camoran"
+    },
+    {
+        "Title (ID)": "Mythic Dawn Commentaries 2\n        00086EF9",
+        "Author": "Mankar Camoran"
+    },
+    {
+        "Title (ID)": "Mythic Dawn Commentaries 3\n        00086EFA",
+        "Author": "Mankar Camoran"
+    },
+    {
+        "Title (ID)": "Mythic Dawn Commentaries 4\n        00086EFB",
+        "Author": "Mankar Camoran"
+    },
+    {
+        "Title (ID)": "Myths of Sheogorath\n        0001ACB8",
+        "Author": "Mymophonus"
+    },
+    {
+        "Title (ID)": "N'Gasta! Kvata! Kvakis!\n        0001AD0E",
+        "Author": "N'Gasta"
+    },
+    {
+        "Title (ID)": "Nchunak's Fire and FaithDB\n        xx02826a",
+        "Author": "Nchunak"
+    },
+    {
+        "Title (ID)": "Nepos's Journal\n        000D672B",
+        "Author": "Nepos the Nose"
+    },
+    {
+        "Title (ID)": "Nerevar at Red MountainDB\n        xx02826B",
+        "Author": "the Tribunal Temple"
+    },
+    {
+        "Title (ID)": "Nerevar Moon and Star\n        0001AD0D",
+        "Author": "An Imperial scholarly work on the legend of Indoril Nerevar"
+    },
+    {
+        "Title (ID)": "Night Falls on Sentinel\n        0001AFE4",
+        "Author": "Boali",
+        "Type": "One-handed skill book"
+    },
+    {
+        "Title (ID)": "The Night Mother's Truth\n        000E0D67",
+        "Author": "Gaston Bellefort"
+    },
+    {
+        "Title (ID)": "Night of Tears\n        0004D249",
+        "Author": "Dranor Seleth"
+    },
+    {
+        "Title (ID)": "Nightingales: Fact or Fiction?\n        000ED039",
+        "Author": "Wilimina Roth"
+    },
+    {
+        "Title (ID)": "The Nightingales Vol. 1\n        000F68AC",
+        "Author": "Gallus Desidenius"
+    },
+    {
+        "Title (ID)": "The Nightingales Vol. 2\n        000F68AD",
+        "Author": "Gallus Desidenius"
+    },
+    {
+        "Title (ID)": "The Nirnroot Missive\n        0010BEDF",
+        "Author": "Sinderion"
+    },
+    {
+        "Title (ID)": "Nords Arise!\n        000ED161",
+        "Author": "Anonymous"
+    },
+    {
+        "Title (ID)": "Nords of Skyrim\n        000E0D66",
+        "Author": "Hrothmund Wolf-Heart"
+    },
+    {
+        "Title (ID)": "Notes on Dimhollow Crypt, Vol. 3DG\n        xx00D070",
+        "Author": "Adalvald"
+    },
+    {
+        "Title (ID)": "Notes On The Lunar Forge\n        00063A0F",
+        "Author": "Observations about Lunar weapons"
+    },
+    {
+        "Title (ID)": "Notes on Yngol Barrow\n        000B6426",
+        "Author": "A scholar's transcription of ancient Nord writings in a Skyrim barrow"
+    },
+    {
+        "Title (ID)": "Nystrom's Journal\n        000FF207",
+        "Author": "Nystrom"
+    },
+    {
+        "Title (ID)": "The Oblivion Crisis\n        00037DEA",
+        "Author": "Praxis Sarcorum, Imperial Historian"
+    },
+    {
+        "Title (ID)": "Ode To The Tundrastriders\n        000ED607",
+        "Author": "Unknown"
+    },
+    {
+        "Title (ID)": "Of Crossed Daggers\n        000ED035",
+        "Author": "Dwennon Wyndell"
+    },
+    {
+        "Title (ID)": "Of Fjori and Holgeir\n        000B64B1",
+        "Author": "A tale of two star-crossed lovers in Skyrim"
+    },
+    {
+        "Title (ID)": "Oghma Infinium\n        0001A332",
+        "Author": "Xarxes"
+    },
+    {
+        "Title (ID)": "Olaf and the Dragon\n        000EB090",
+        "Author": "Adonato Leotelli"
+    },
+    {
+        "Title (ID)": "Old Tome\n        0008F741",
+        "Author": "A poetic hint on how to open a hidden door"
+    },
+    {
+        "Title (ID)": "The Old Ways\n        0001AD0F",
+        "Author": "A guide to the Psijic Order and their beliefs"
+    },
+    {
+        "Title (ID)": "On Apocrypha: Boneless LimbsDB\n        xx03A35F"
+    },
+    {
+        "Title (ID)": "On Apocrypha: Delving PincersDB\n        xx03A360"
+    },
+    {
+        "Title (ID)": "On Apocrypha: Gnashing BladesDB\n        xx03A361"
+    },
+    {
+        "Title (ID)": "On Apocrypha: Prying OrbsDB\n        xx03A362"
+    },
+    {
+        "Title (ID)": "On Oblivion\n        0001ACF3",
+        "Author": "Morian Zenas"
+    },
+    {
+        "Title (ID)": "On Stepping Lightly\n        000ED037",
+        "Author": "Sigilis Justus"
+    },
+    {
+        "Title (ID)": "On the Great Collapse\n        000EDA8E",
+        "Author": "Arch-Mage Deneth"
+    },
+    {
+        "Title (ID)": "Opusculus Lamae Bal\n        0001AF40",
+        "Author": "Mabei Aywenil, Scribe"
+    },
+    {
+        "Title (ID)": "Orsinium and the Orcs\n        0001AFF9",
+        "Author": "Menyna Gsost",
+        "Type": "Heavy Armor skill book"
+    },
+    {
+        "Title (ID)": "Palla, volume 1\n        0001AFFE",
+        "Author": "Vojne Mierstyyd"
+    },
+    {
+        "Title (ID)": "Palla, volume 2\n        0001ACF4",
+        "Author": "Vojne Mierstyyd"
+    },
+    {
+        "Title (ID)": "Pension of the Ancestor Moth\n        0003010A",
+        "Author": "A Temple novice's initiatory pamphlet on the Cult of the Ancestor Moth"
+    },
+    {
+        "Title (ID)": "Physicalities of Werewolves\n        000ED041",
+        "Author": "Reman Crex"
+    },
+    {
+        "Title (ID)": "The Pig Children\n        0001AD11",
+        "Author": "Tyston Bane"
+    },
+    {
+        "Title (ID)": "Pirate King of the Abecean\n        000E7EF0",
+        "Author": "An ode to the Pirate King"
+    },
+    {
+        "Title (ID)": "The Poison Song, Book IDB\n        xx02826e",
+        "Author": "Bristin Xel"
+    },
+    {
+        "Title (ID)": "The Poison Song, Book IIDB\n        xx02826f",
+        "Author": "Bristin Xel"
+    },
+    {
+        "Title (ID)": "The Poison Song, Book IIIDB\n        xx028270",
+        "Author": "Bristin Xel"
+    },
+    {
+        "Title (ID)": "The Poison Song, Book IVDB\n        xx028271",
+        "Author": "Bristin Xel"
+    },
+    {
+        "Title (ID)": "The Poison Song, Book VDB\n        xx028272",
+        "Author": "Bristin Xel"
+    },
+    {
+        "Title (ID)": "The Poison Song, Book VIDB\n        xx028273",
+        "Author": "Bristin Xel"
+    },
+    {
+        "Title (ID)": "The Poison Song, Book VIIDB\n        xx028274",
+        "Author": "Bristin Xel"
+    },
+    {
+        "Title (ID)": "The Posting of the Hunt\n        0001AD12",
+        "Author": "A document announcing a ritualistic hunting of a mortal by Daedra"
+    },
+    {
+        "Title (ID)": "Power of the Elements\n        0009C8C2",
+        "Author": "Fire Storm spell tome"
+    },
+    {
+        "Title (ID)": "Proper Lock Design\n        0001B01B",
+        "Author": "Unknown",
+        "Type": "Lockpicking skill book"
+    },
+    {
+        "Title (ID)": "Purloined Shadows\n        0001B022",
+        "Author": "Waughin Jarth",
+        "Type": "Pickpocket skill book"
+    },
+    {
+        "Title (ID)": "Racial Phylogeny\n        0001B015",
+        "Author": "the Council of Healers, Imperial University",
+        "Type": "Restoration skill book"
+    },
+    {
+        "Title (ID)": "Raleth Eldri's Notes on KagrumezDB\n        xx0374D6",
+        "Author": "Raleth Eldri"
+    },
+    {
+        "Title (ID)": "Ramati's Journal\n        000D3973",
+        "Author": "Ramati"
+    },
+    {
+        "Title (ID)": "The Ransom of Zarek\n        0001AFD3",
+        "Author": "Marobar Sul"
+    },
+    {
+        "Title (ID)": "The Real Barenziah, v1\n        0001ACD6",
+        "Author": "Anonymous"
+    },
+    {
+        "Title (ID)": "The Real Barenziah, v2\n        0001ACD7",
+        "Author": "Anonymous"
+    },
+    {
+        "Title (ID)": "The Real Barenziah, v3\n        0001ACD8",
+        "Author": "Anonymous"
+    },
+    {
+        "Title (ID)": "The Real Barenziah, v4\n        0001ACD9",
+        "Author": "Anonymous"
+    },
+    {
+        "Title (ID)": "The Real Barenziah, v5\n        0001ACDA",
+        "Author": "Anonymous"
+    },
+    {
+        "Title (ID)": "Reality &amp; Other Falsehoods\n        0001AFCC",
+        "Author": "Summary of the basic principles of Alteration magic"
+    },
+    {
+        "Title (ID)": "The Rear Guard\n        0001B000",
+        "Author": "Tenace Mourl",
+        "Type": "Light Armor skill book"
+    },
+    {
+        "Title (ID)": "The ReclamationsDB\n        xx03b052",
+        "Author": "Thara of Rihad"
+    },
+    {
+        "Title (ID)": "The Red Book of Riddles\n        0001AD13",
+        "Author": "Small collection of riddles"
+    },
+    {
+        "Title (ID)": "Red Eagle's Rite\n        000C2987",
+        "Author": "A rite to raise the legendary Red Eagle from death"
+    },
+    {
+        "Title (ID)": "The Red Kitchen Reader\n        0001AFD5",
+        "Author": "Simocles Quo",
+        "Type": "Sneak skill book"
+    },
+    {
+        "Title (ID)": "The Red Year, Vol. IDB\n        xx03B063",
+        "Author": "Melis Ravel"
+    },
+    {
+        "Title (ID)": "The Red Year, Vol. IIDB\n        xx03B064",
+        "Author": "Melis Ravel"
+    },
+    {
+        "Title (ID)": "The Refugees\n        0001B003",
+        "Author": "Geros Albreigh",
+        "Type": "Light Armor skill book"
+    },
+    {
+        "Title (ID)": "Remanada\n        0001AD14",
+        "Author": "Fragmented, mythical recounting of the conception of Reman and the return of the Chim-el Adabal with the people of Tamriel"
+    },
+    {
+        "Title (ID)": "Report: Disaster at Ionith\n        0001ACC6",
+        "Author": "Lord Pottreid, Chairman"
+    },
+    {
+        "Title (ID)": "Research Log\n        00034CBC",
+        "Author": "First Adjunct Oronrel"
+    },
+    {
+        "Title (ID)": "Research Notes\n        0006A80D",
+        "Author": "Sulla Trebatius"
+    },
+    {
+        "Title (ID)": "Response to Bero's Speech\n        0001AFED",
+        "Author": "Malviser, Battlemage",
+        "Type": "Destruction skill book"
+    },
+    {
+        "Title (ID)": "Riften Home Decorating Guide\n        000F11B7",
+        "Author": "Details on accessory packages available for a Riften home"
+    },
+    {
+        "Title (ID)": "The Rise and Fall of the Blades\n        000F4530",
+        "Author": "Anonymous"
+    },
+    {
+        "Title (ID)": "Rising Threat, Vol. I\n        000ED5F4",
+        "Author": "Lathenil of Sunhold"
+    },
+    {
+        "Title (ID)": "Rising Threat, Vol. II\n        000ED5F5",
+        "Author": "Lathenil of Sunhold"
+    },
+    {
+        "Title (ID)": "Rising Threat, Vol. III\n        000ED5F6",
+        "Author": "Lathenil of Sunhold"
+    },
+    {
+        "Title (ID)": "Rising Threat, Vol. IV\n        000ED5F7",
+        "Author": "Lathenil of Sunhold"
+    },
+    {
+        "Title (ID)": "Rislav The Righteous\n        0001B004",
+        "Author": "Sinjin",
+        "Type": "Light Armor skill book"
+    },
+    {
+        "Title (ID)": "Ruined Trailbook\n        000F0424",
+        "Author": "Travel log of an ill-fated group's accidental foray into Falmer territory"
+    },
+    {
+        "Title (ID)": "Ruins of Kemel-Ze\n        0001ACDB",
+        "Author": "Rolard Nordssen"
+    },
+    {
+        "Title (ID)": "Ruminations on the Elder Scrolls\n        00032785",
+        "Author": "A philosophical view on the role of the Elder Scrolls"
+    },
+    {
+        "Title (ID)": "Runil's Journal\n        000705C3",
+        "Author": "Runil"
+    },
+    {
+        "Title (ID)": "Sacred Witness\n        0001B020",
+        "Author": "Enric Milnes",
+        "Type": "Sneak skill book"
+    },
+    {
+        "Title (ID)": "Saden's JournalDB\n        xx02649C",
+        "Author": "Saden"
+    },
+    {
+        "Title (ID)": "Saint Jiub's OpusDG\n        xx003F79",
+        "Author": "Jiub"
+    },
+    {
+        "Title (ID)": "Scourge of the Gray Quarter\n        000ED03B",
+        "Author": "Frilgeth Horse-Breaker"
+    },
+    {
+        "Title (ID)": "The Secrets of Ragnvald\n        000DB0C7",
+        "Author": "A poem about Otar's corruption and the fate of two warriors sent to stop him"
+    },
+    {
+        "Title (ID)": "The Seed\n        0001ACFA",
+        "Author": "Marobar Sul"
+    },
+    {
+        "Title (ID)": "Servos' JournalDB\n        xx0280C1",
+        "Author": "Servos Rendas"
+    },
+    {
+        "Title (ID)": "Shadowmarks\n        000F84A1",
+        "Author": "Delvin Mallory"
+    },
+    {
+        "Title (ID)": "Shalidor's Insights\n        000F6275",
+        "Author": "Shalidor"
+    },
+    {
+        "Title (ID)": "Shezarr and the Divines\n        0001AF93",
+        "Author": "Faustillus Junius"
+    },
+    {
+        "Title (ID)": "Short History of Morrowind\n        0001B22B",
+        "Author": "Jeanette Sitte"
+    },
+    {
+        "Title (ID)": "Sild's Journal\n        000AD430",
+        "Author": "Sild the Warlock"
+    },
+    {
+        "Title (ID)": "Sinderion's Field Journal\n        000E4D6F",
+        "Author": "Sinderion"
+    },
+    {
+        "Title (ID)": "Sithis\n        0001AFCB",
+        "Author": "Text detailing an apparent connection between Sithis and Lorkhan"
+    },
+    {
+        "Title (ID)": "Skorm Snow-Strider's Journal\n        0007E5B8",
+        "Author": "Skorm Snow-Strider"
+    },
+    {
+        "Title (ID)": "Skyrim's Rule\n        000ED04C",
+        "Author": "Abdul-Mujib Ababneh"
+    },
+    {
+        "Title (ID)": "Smuggler's Journal\n        000DC3AF"
+    },
+    {
+        "Title (ID)": "Solitude Home Decorating Guide\n        000F1447",
+        "Author": "Details on accessory packages available for a Solitude home"
+    },
+    {
+        "Title (ID)": "Song Of Hrormir\n        0001AFDB",
+        "Author": "The epic narrative of Hrormir, one-time champion of Nocturnal"
+    },
+    {
+        "Title (ID)": "Song of the Alchemists\n        0001AFC6",
+        "Author": "Marobar Sul",
+        "Type": "Alchemy skill book"
+    },
+    {
+        "Title (ID)": "Song of the Askelde Men\n        000E7F37",
+        "Author": "A traditional Nordic poem about a ghost stalking those that killed him"
+    },
+    {
+        "Title (ID)": "The Song of Pelinal, v1\n        0001AF8A",
+        "Author": "A description of the origins of Pelinal's name"
+    },
+    {
+        "Title (ID)": "The Song of Pelinal, v2\n        0001AF8B",
+        "Author": "A history of Pelinal's origins"
+    },
+    {
+        "Title (ID)": "The Song of Pelinal, v3\n        0001AF8C",
+        "Author": "A description of Pelinal's mortal enemy, Umaril the Unfeathered"
+    },
+    {
+        "Title (ID)": "The Song of Pelinal, v4\n        0001AF8D",
+        "Author": "A brief list of Pelinal's great deeds"
+    },
+    {
+        "Title (ID)": "The Song of Pelinal, v5\n        0001AF8E",
+        "Author": "Notes about Pelinal's friendship with Morihaus"
+    },
+    {
+        "Title (ID)": "The Song of Pelinal, v6\n        0001AF8F",
+        "Author": "Thoughts on Pelinal's madness"
+    },
+    {
+        "Title (ID)": "The Song of Pelinal, v7\n        0001AF90",
+        "Author": "On Pelinal's battle with Umaril, and his dismemberment"
+    },
+    {
+        "Title (ID)": "The Song of Pelinal, v8\n        0001AF91",
+        "Author": "Pelinal's words at the deathbed of Alessia"
+    },
+    {
+        "Title (ID)": "Songs of Skyrim\n        000ED062",
+        "Author": "Giraud Gemaine, Historian of the Bards College,"
+    },
+    {
+        "Title (ID)": "Songs of Skyrim: Revised\n        000F11D5",
+        "Author": "Giraud Gemaine, Historian of the Bards College, Solitude"
+    },
+    {
+        "Title (ID)": "Songs of the Return, Vol 2\n        000ED046",
+        "Author": "Part of the traditional legend of Ysgramor and his Five Hundred Companions"
+    },
+    {
+        "Title (ID)": "Songs of the Return, Vol 7\n        000ED045",
+        "Author": "Part of the traditional legend of Ysgramor and his Five Hundred Companions"
+    },
+    {
+        "Title (ID)": "Songs of the Return, Vol 19\n        000ED03D",
+        "Author": "Part of the traditional legend of Ysgramor and his Five Hundred Companions"
+    },
+    {
+        "Title (ID)": "Songs of the Return, vol 24\n        000ED048",
+        "Author": "Part of the traditional legend of Ysgramor and his Five Hundred Companions"
+    },
+    {
+        "Title (ID)": "Songs of the Return, Vol 56\n        000ED044",
+        "Author": "Part of the traditional legend of Ysgramor and his Five Hundred Companions"
+    },
+    {
+        "Title (ID)": "Souls, Black and White\n        0001AD0C",
+        "Author": "A scholar's look at the souls of man and beast"
+    },
+    {
+        "Title (ID)": "Sovngarde: A Reexamination\n        000E2FC6",
+        "Author": "Bereditte Jastal"
+    },
+    {
+        "Title (ID)": "Spider Experiment NotesDB\n        xx017072"
+    },
+    {
+        "Title (ID)": "Spirit of Nirn\n        0001B25A",
+        "Author": "Opinions of the god and the origin of creation"
+    },
+    {
+        "Title (ID)": "Spirit of the Daedra\n        0001AD15",
+        "Author": "A look into the Daedric mindset"
+    },
+    {
+        "Title (ID)": "Staubin's Diary\n        0008E8FC",
+        "Author": "Staubin"
+    },
+    {
+        "Title (ID)": "Stromm's Diary\n        00093846",
+        "Author": "Stromm"
+    },
+    {
+        "Title (ID)": "Sudi's Journal\n        000D0969",
+        "Author": "Sudi"
+    },
+    {
+        "Title (ID)": "Sulla's Journal\n        0008ACD2",
+        "Author": "Sulla Trebatius"
+    },
+    {
+        "Title (ID)": "The Sultry Argonian Bard, v1DG\n        xx006925",
+        "Author": "Ellya Erdain"
+    },
+    {
+        "Title (ID)": "Surfeit of Thieves\n        0001B01D",
+        "Author": "Aniis Noru",
+        "Type": "Lockpicking skill book"
+    },
+    {
+        "Title (ID)": "Suvaris Atheron's Logbook\n        0001DBFE",
+        "Author": "Suvaris Atheron"
+    },
+    {
+        "Title (ID)": "The Tale of Dro'Zira\n        000F03E3",
+        "Author": "Sonia Vette"
+    },
+    {
+        "Title (ID)": "The Talos Mistake\n        000ED04D",
+        "Author": "Leonora Venatus"
+    },
+    {
+        "Title (ID)": "Tattered Journal\n        000B6D60"
+    },
+    {
+        "Title (ID)": "Tattered Journal\n        000F0423"
+    },
+    {
+        "Title (ID)": "Thalmor Dossier: Delphine\n        000F6845",
+        "Author": "Thalmor Dossier on the Blades agent Delphine"
+    },
+    {
+        "Title (ID)": "Thalmor Dossier: Esbern\n        0003AF29",
+        "Author": "Thalmor Dossier on the Blades Loremaster Esbern"
+    },
+    {
+        "Title (ID)": "Thalmor Dossier: Ulfric Stormcloak\n        000F6846",
+        "Author": "Thalmor dossier on the Stormcloak leader and Jarl of Windhelm Ulfric Stormcloak"
+    },
+    {
+        "Title (ID)": "There Be Dragons\n        000ED5F8",
+        "Author": "Torhal Bjorik"
+    },
+    {
+        "Title (ID)": "Thief\n        0001AFBF",
+        "Author": "Reven",
+        "Type": "Pickpocket skill book"
+    },
+    {
+        "Title (ID)": "Thief of Virtue\n        0001ACDD",
+        "Author": "A bawdy tale of one thief's quest for coin, and capture of a lady's virtue"
+    },
+    {
+        "Title (ID)": "The Third Door\n        0001ACFB",
+        "Author": "Annanar Orme"
+    },
+    {
+        "Title (ID)": "The Third Era Timeline\n        000ED04F",
+        "Author": "Jaspus Ignateous"
+    },
+    {
+        "Title (ID)": "Thirsk, A Revised HistoryDB\n        xx03b3a5",
+        "Author": "Chronicles the Nord mead hall of Thirsk circa 4E 201, focusing primarily on its chieftains"
+    },
+    {
+        "Title (ID)": "Thonar's Journal\n        000D674A",
+        "Author": "Thonar Silver-Blood"
+    },
+    {
+        "Title (ID)": "Three Thieves\n        0001B276",
+        "Author": "Anonymous",
+        "Type": "Sneak skill book"
+    },
+    {
+        "Title (ID)": "Tolfdir's Book\n        00026700",
+        "Author": "Asgrim Kolsgreg"
+    },
+    {
+        "Title (ID)": "The Totems of Hircine\n        000F683F",
+        "Author": "Werewolf tales regarding artifacts of Hircine"
+    },
+    {
+        "Title (ID)": "Touching the SkyDG\n        xx01A3E8",
+        "Author": "Parmion Saldor"
+    },
+    {
+        "Title (ID)": "A Tragedy in Black\n        0002F838",
+        "Author": "The story of a youth summoning a Dremora"
+    },
+    {
+        "Title (ID)": "TrapDB\n        xx029102",
+        "Author": "Anonymous"
+    },
+    {
+        "Title (ID)": "Treatise on Ayleidic Cities\n        0001ADB4",
+        "Author": "The history of Varsa Baalim and Mehrunes' Razor"
+    },
+    {
+        "Title (ID)": "Trials of St. Alessia\n        0001ACE2",
+        "Author": "Excerpt from a greater work detailing the creation of the Amulet of Kings"
+    },
+    {
+        "Title (ID)": "Troll Slaying\n        000ED606",
+        "Author": "Finn"
+    },
+    {
+        "Title (ID)": "The True Nature of Orcs\n        0001AD16",
+        "Author": "Book detailing the Orsimer race and their origin"
+    },
+    {
+        "Title (ID)": "The True Noble's CodeDB\n        xx028275",
+        "Author": "Serjo Athyn Sarethi"
+    },
+    {
+        "Title (ID)": "Twin Secrets\n        0002F839",
+        "Author": "Brarilu Theran",
+        "Type": "Enchanting skill book"
+    },
+    {
+        "Title (ID)": "Ulfr's Book\n        000E1640",
+        "Author": "A blank book being read by a blind watchman"
+    },
+    {
+        "Title (ID)": "Ulyn's JournalDB\n        xx032CD5",
+        "Author": "Ulyn"
+    },
+    {
+        "Title (ID)": "Umana's Journal\n        000F0417",
+        "Author": "Umana"
+    },
+    {
+        "Title (ID)": "Uncommon Taste\n        0009F267",
+        "Author": "The Gourmet"
+    },
+    {
+        "Title (ID)": "Uncommon Taste - Signed\n        0006851B",
+        "Author": "The Gourmet"
+    },
+    {
+        "Title (ID)": "Unknown Book, Vol. IDG\n        xx01A3E0",
+        "Author": "ENGWE EMELOTH"
+    },
+    {
+        "Title (ID)": "Unknown Book, Vol. IIDG\n        xx01A3E1"
+    },
+    {
+        "Title (ID)": "Unknown Book, Vol. IIIDG\n        xx01A3E2"
+    },
+    {
+        "Title (ID)": "Unknown Book, Vol. IVDG\n        xx01A3E3",
+        "Author": "PARMION SALDOR"
+    },
+    {
+        "Title (ID)": "Unsent Afflicted Letter\n        000E7F39"
+    },
+    {
+        "Title (ID)": "Valerica's JournalDG\n        xx003C4B",
+        "Author": "Valerica"
+    },
+    {
+        "Title (ID)": "Varieties of Daedra\n        0001ACFC",
+        "Author": "Aranea Drethan"
+    },
+    {
+        "Title (ID)": "Varieties of Faith in the EmpireDB\n        xx028276",
+        "Author": "Brother Mikhael Karkuxor of the Imperial College"
+    },
+    {
+        "Title (ID)": "Venarus Vulpin's JournalDG\n        xx0149A2",
+        "Author": "Venarus Vulpin"
+    },
+    {
+        "Title (ID)": "Venarus Vulpin's ResearchDG\n        xx0149A3",
+        "Author": "Venarus Vulpin"
+    },
+    {
+        "Title (ID)": "Vernaccus and Bourlor\n        0001B007\n        0001B27A",
+        "Author": "Tavi Dromio",
+        "Type": "Archery skill book"
+    },
+    {
+        "Title (ID)": "Volk's JournalDG\n        xx0135CB",
+        "Author": "Volk"
+    },
+    {
+        "Title (ID)": "Wabbajack\n        0001AFBA",
+        "Author": "Story of one man's summoning of Sheogorath and descent into madness"
+    },
+    {
+        "Title (ID)": "Walking the World, Vol XI\n        000ED061",
+        "Author": "Spatior Munius"
+    },
+    {
+        "Title (ID)": "War of the First Council\n        0001B272",
+        "Author": "Agrippa Fundilius"
+    },
+    {
+        "Title (ID)": "Warrior\n        0001AFE0",
+        "Author": "Reven",
+        "Type": "Block skill book"
+    },
+    {
+        "Title (ID)": "The Warrior's Charge\n        0001AFEB",
+        "Author": "An old poem of the Redguards that deals with the constellations"
+    },
+    {
+        "Title (ID)": "Watcher of Stones\n        000ED63F",
+        "Author": "Gelyph Sig, Thane of Bjorin"
+    },
+    {
+        "Title (ID)": "The Waters of Oblivion\n        0001AD17",
+        "Author": "A work on the dangers of Daedra and Oblivion"
+    },
+    {
+        "Title (ID)": "Where were you when the Dragon BrokeDB\n        xx028266",
+        "Author": "Various"
+    },
+    {
+        "Title (ID)": "Whiterun Home Decorating Guide\n        000F11B6",
+        "Author": "Details on accessory packages available for a Whiterun home"
+    },
+    {
+        "Title (ID)": "The Wild Elves\n        0001AD18",
+        "Author": "Kier-Jo Chorvak"
+    },
+    {
+        "Title (ID)": "Wind and SandDB\n        xx01D8D0",
+        "Author": "Afa-Saryat"
+    },
+    {
+        "Title (ID)": "Windhelm Home Decorating Guide\n        000F1446",
+        "Author": "Details on accessory packages available for a Windhelm home"
+    },
+    {
+        "Title (ID)": "The Windhelm Letters\n        000ED03C",
+        "Author": "Reylia"
+    },
+    {
+        "Title (ID)": "The Wispmother\n        00083B3B",
+        "Author": "Mathias Etienne"
+    },
+    {
+        "Title (ID)": "Withershins\n        0001B014",
+        "Author": "Yaqut Tawashi",
+        "Type": "Restoration skill book"
+    },
+    {
+        "Title (ID)": "The Wolf Queen, v1\n        0001B01A",
+        "Author": "Waughin Jarth",
+        "Type": "Lockpicking skill book"
+    },
+    {
+        "Title (ID)": "The Wolf Queen, v2\n        0001AFF2",
+        "Author": "Waughin Jarth"
+    },
+    {
+        "Title (ID)": "The Wolf Queen, v3\n        0001AFFB",
+        "Author": "Waughin Jarth"
+    },
+    {
+        "Title (ID)": "The Wolf Queen, v4\n        0001B00B",
+        "Author": "Waughin Jarth"
+    },
+    {
+        "Title (ID)": "The Wolf Queen, v5\n        0001B024",
+        "Author": "Waughin Jarth"
+    },
+    {
+        "Title (ID)": "The Wolf Queen, v6\n        0001B01E",
+        "Author": "Waughin Jarth"
+    },
+    {
+        "Title (ID)": "The Wolf Queen, v7\n        0001B026",
+        "Author": "Waughin Jarth"
+    },
+    {
+        "Title (ID)": "The Wolf Queen, v8\n        0001ACFD",
+        "Author": "Waughin Jarth"
+    },
+    {
+        "Title (ID)": "The Woodcutter's Wife\n        000ED601",
+        "Author": "Mogen Son of Molag"
+    },
+    {
+        "Title (ID)": "Words and Philosophy\n        0001AFD8",
+        "Author": "An interview with a Bosmer master swordsman about her life"
+    },
+    {
+        "Title (ID)": "Words of Clan Mother Ahnissi\n        0001B27D",
+        "Author": "Clan Mother Ahnissi"
+    },
+    {
+        "Title (ID)": "Words of the WindDB\n        xx028277",
+        "Author": "A volume of verse collected from Ashlander wise women"
+    },
+    {
+        "Title (ID)": "Wraith's Wedding Dowry\n        0001B273",
+        "Author": "Voltha gra-Yamwort\n        (translated by Apthorne)"
+    },
+    {
+        "Title (ID)": "Wyndelius's Journal\n        000D9B6B",
+        "Author": "Wyndelius Gatharian"
+    },
+    {
+        "Title (ID)": "Yellow Book of Riddles\n        0001B274",
+        "Author": "A series of riddles"
+    },
+    {
+        "Title (ID)": "Yngol and the Sea-Ghosts\n        0002A563",
+        "Author": "A tale of Ysgramor's first adventure in Tamriel"
+    }
+]
