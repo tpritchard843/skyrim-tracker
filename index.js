@@ -1,22 +1,23 @@
-import { booksData } from '/data/books.js'
+import { booksData } from '/data/booksData.js'
 
 const bookContainer = document.getElementById('book-container')
 
 
+
 //takes in our generated booksArray and renders them to the page as HTML
-function renderBooks(books){
+//function renderBooks(books){
 
-    for (let book of books){
+    //for (let book of books){
 
-        const bookDiv = document.createElement("div")
-        bookDiv.innerHTML += `<p class="book-title">${book.title}</p>`
+        //const bookDiv = document.createElement("div")
+        //bookDiv.innerHTML += `<p class="book-title">${book.title}</p>`
 
-        bookContainer.append(bookDiv)
+        //bookContainer.append(bookDiv)
 
-    }
+    //}
 
-    console.log(booksData)
-   }
+    //console.log(booksData)
+   //}
 
 
-window.addEventListener('DOMContentLoaded', renderBooks(booksData))
+//window.addEventListener('DOMContentLoaded', renderBooks(booksData))

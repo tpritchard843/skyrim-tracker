@@ -1,0 +1,19 @@
+{
+  "name": "skyrim-tracker",
+  "version": "1.0.0",
+  "description": "This is a simple inventory tracker for books in The Elder Scrolls V: Skyrim",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tpritchard843/skyrim-tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tpritchard843/skyrim-tracker/issues"
+  },
+  "homepage": "https://github.com/tpritchard843/skyrim-tracker#readme"
+}
